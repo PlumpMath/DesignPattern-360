@@ -1,7 +1,7 @@
 # DesignPattern
 모두가 처음엔 초보이나 모두가 고수가 되진 않듯이..화이팅  
   
-1. 옵저버 패턴 - api를 사용하거나 혹은 만들어 쓰거나  
+# 옵저버 패턴 - api를 사용하거나 혹은 만들어 쓰거나  
 어떤 클래스에 변화가 일어났을 때, 다른 클래스에 통보해 주는 패턴  
   
 - 통보 해주는 놈 => observable (observable 클래스를 상속)  
@@ -20,12 +20,13 @@
 상황에 맞게 api를 사용하거나, 혹은 직접 구현하여 사용  
 * 참조: http://hyeonstorage.tistory.com/  
   
-2. Flyweight 패턴  
+# Flyweight 패턴  
 동일한 것을 공유해서 객체 생성을 줄여 메모리 절약하기  
 
 - 있는놈을 요청 => Factory에서 기존에 있던 객체 리턴  
 - 없는놈을  => Factory에서 새롭게 객체 생성하여 리턴  
- 
+  
+* 참조: http://egloos.zum.com/iilii/v/4066794
  
 
 
